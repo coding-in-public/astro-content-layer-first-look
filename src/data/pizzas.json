@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "pizzaName": "Margherita",
+    "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Basil"]
+  },
+  {
+    "id": 2,
+    "pizzaName": "Pepperoni",
+    "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni"]
+  },
+  {
+    "id": 3,
+    "pizzaName": "Hawaiian",
+    "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Ham", "Pineapple"]
+  },
+  {
+    "id": 4,
+    "pizzaName": "BBQ Chicken",
+    "ingredients": [
+      "BBQ Sauce",
+      "Mozzarella Cheese",
+      "Chicken",
+      "Red Onions",
+      "Cilantro"
+    ]
+  },
+  {
+    "id": 5,
+    "pizzaName": "Veggie",
+    "ingredients": [
+      "Tomato Sauce",
+      "Mozzarella Cheese",
+      "Bell Peppers",
+      "Olives",
+      "Mushrooms",
+      "Onions"
+    ]
+  }
+]
